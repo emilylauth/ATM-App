@@ -1,0 +1,16 @@
+#root {
+ font-family: Arial, Helvetica, sans-serif;
+ margin-left: 20em;
+ margin-right: 20em;
+ border-radius: 5px;
+ padding-top: 75px;
+ text-align: center;
+ height: 20em;
+}
+
+.header-form {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: .5em;
+  color: black;
+}
+
